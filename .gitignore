@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# originais baixados do Instagram (~170 MB) — não versionar
+/media-raw
