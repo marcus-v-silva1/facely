@@ -190,7 +190,7 @@ export const site = {
       role: "À frente da Facely",
       // Fonte: bio do Instagram @drayasmimsousa_ (nov/2026)
       credentials: ["Biomédica · CRBM-4 8111", "Harmonização facial"],
-      portrait: { src: "/media/dra-yasmim.jpg", brief: "Retrato profissional.", alt: "Dra. Yasmim Sousa" },
+      portrait: { src: "/media/dra-yasmim-ensaio.jpg", brief: "Retrato profissional.", alt: "Dra. Yasmim Sousa" },
     },
   ] satisfies Professional[],
 
