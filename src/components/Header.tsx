@@ -40,7 +40,8 @@ export function Header() {
     >
       <div className="mx-auto flex h-18 max-w-7xl items-center justify-between px-5 md:px-10">
         <a href="#inicio" aria-label="Facely — início">
-          <Logo className={`h-11 transition-colors duration-500 ${light ? "text-cream" : "text-brand"}`} />
+          {/* Sobre o hero a logo completa já aparece; o monograma só entra após o scroll */}
+          <Logo className={`h-11 text-brand transition-opacity duration-500 ${light ? "opacity-0" : "opacity-100"}`} />
         </a>
 
         <nav aria-label="Principal" className="hidden md:block">
