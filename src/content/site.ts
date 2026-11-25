@@ -175,7 +175,7 @@ export const site = {
   },
 
   // Fonte: bio do Instagram ("Por @dra.lynaguiomarino e @drayasmimsousa_").
-  // "Dra. Lyna Guiomarino" confirmado pelo crédito dos Reels. Grafia de Yasmim e credenciais: confirmar.
+  // Nomes confirmados (crédito dos Reels / perfil @drayasmimsousa_). Credenciais da Dra. Lyna: confirmar.
   professionals: [
     {
       name: "Dra. Lyna Guiomarino",
@@ -188,8 +188,9 @@ export const site = {
       name: "Dra. Yasmim Sousa",
       handle: "drayasmimsousa_",
       role: "À frente da Facely",
-      credentials: [],
-      portrait: { src: null, brief: "Retrato profissional.", alt: "Dra. Yasmim Sousa" },
+      // Fonte: bio do Instagram @drayasmimsousa_ (nov/2026)
+      credentials: ["Biomédica · CRBM-4 8111", "Harmonização facial"],
+      portrait: { src: "/media/dra-yasmim.jpg", brief: "Retrato profissional.", alt: "Dra. Yasmim Sousa" },
     },
   ] satisfies Professional[],
 

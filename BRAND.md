@@ -42,7 +42,7 @@ Nenhuma mídia foi baixada do Instagram (sem scraping; Reels públicos não impl
 
 1. **Autorização de uso no site** dos Reels — especialmente pacientes identificáveis (perfiloplastia, lábios, depoimento da Sabrina, limpeza de pele) e o antes/depois implícito. Exigência ética/publicitária da categoria profissional.
 2. **Arquivos vetoriais originais** da logo e códigos de cor/fontes do manual.
-3. **Dra. Yasmim Sousa**: grafia e retrato (não identifiquei com segurança qual pessoa ela é nos vídeos). Formação e registro das duas doutoras → `credentials`.
+3. **Credenciais da Dra. Lyna** (formação/registro) → `credentials`. Dra. Yasmim Sousa: Biomédica, CRBM-4 8111 (bio do Instagram); retrato de frame do Reel DfzqczABkXq do perfil dela.
 4. **Descrição do Up Glúteo** (texto provisório) e lista completa de procedimentos (o WhatsApp cita "Harmonização Facial").
 5. **Vídeos originais em alta** (os Reels vêm em 720p vertical, com legendas embutidas em alguns trechos).
 6. **Domínio** → `NEXT_PUBLIC_SITE_URL`; **imagem Open Graph** 1200×630 → `src/app/opengraph-image.jpg`.
